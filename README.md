@@ -1,4 +1,6 @@
-# WordPress Server Compatibility Checking Script
+![WordPress Server Compatibility Checking Script][logo] 
+
+#WordPress Server Compatibility Checking Script
 
 WordPress Server Compatibility Checking Script for Your Web Server is a simple yet powerful script to test whether your web host to run WordPress smoothly. There are something to mention about this multi functional WordPress Compatibility Checking Script, which optionally wget the latest version of WordPress, extracts and make your WordPress installation easier.
 
@@ -31,8 +33,15 @@ Demo of WordPress Server Compatibility Checking Script
 
 Just head to [WordPress Server Compatibility Checking Script Official webpage][2] for full guide and Live Demo.
 
+License and Disclaimer 
+-----------------------
+
+* This is not OFFICIAL script by WordPress. 
+* WordPress Logo belongs to WordPress and company behind WordPress.
+* This project is licenced under GNU GPL 3.0 License.
 
 
 
    [1]: http://wordpress.org/about/requirements/
    [2]: http://thecustomizewindows.com/2012/10/wordpress-compatibility-checking-script-for-your-web-server/ "WordPress Compatibility Checking Script"
+   [logo]: https://avatars0.githubusercontent.com/u/276006?v=3&s=200 "WordPress Server Compatibility Checking Script"
